@@ -52,7 +52,18 @@
     text-align: end;
 } 
 
+.tx-cl {
+    color: #212629;
+}
 
+footer {
+    background-color: #1d3a4a;
+    margin-top: 1rem;
+}
+
+footer .bg-cr {
+    background-color: rgba(0, 0, 0, 0.2);
+}
 
 /* .grad-img {
     background: rgb(0, 0, 0);
