@@ -64,7 +64,7 @@
 <!-- INSTALACIÓN -->
   <a name="instalacion"></a>
   ## 🔧 Instalación
-  Si deseas correr la aplicación en un entorno local debes tener en cuenta lo siguiente: 
+  Si deseas correr la web en un entorno local debes tener en cuenta lo siguiente: 
   1. Clona el repositorio utilizando GIT o descargando el archivo ZIP:
 
       `git clone https://github.com/joana-coll/Conf-Bs-As.git`
